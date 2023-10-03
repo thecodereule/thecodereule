@@ -1,7 +1,9 @@
-### Hi there 👋
-
 [![An image of @thecodereule's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thecodereule)](https://holopin.io/@thecodereule)
-**thecodereule/thecodereule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thecodereule/thecodereule**
+# Hi there 👋 This is a special repository because its my `README.md`
+#### Welcome
+#### This is my tech stack:
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,python,cs,c)](https://skillicons.dev)
 
 Here are some ideas to get you started:
 
