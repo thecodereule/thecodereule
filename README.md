@@ -3,7 +3,7 @@
 # Hi there 👋 This is a special repository because its my `README.md`
 #### Welcome
 #### This is my tech stack:
-[![My Skills](https://skillicons.dev/icons?i=ts,html,css,python,cs,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,css,python,cs,c,cpp)](https://skillicons.dev)
 
 I am a Computer science student with a background in applied physics and engineering. I love all things mechatronics.
 
