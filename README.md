@@ -17,7 +17,7 @@
     <h3>string main (Igor)</h3>
     <h3>{</h3>
     &nbsp; &nbsp; &nbsp;🔭 I’m currently working on snapgrid.netlify.app</p>
-    &nbsp; &nbsp; &nbsp;🌱 I’m currently learning ASP.NET, Assembly and IoT.</p>
+    &nbsp; &nbsp; &nbsp;🌱 I’m currently learning ASP.NET, Golang and Data Science.</p>
     &nbsp; &nbsp; &nbsp;👯 I’m looking to collaborate on ...</p>
     &nbsp; &nbsp; &nbsp;🤔 I’m looking for help with ...</p>
     &nbsp; &nbsp; &nbsp;💬 Ask me about ...</p>
