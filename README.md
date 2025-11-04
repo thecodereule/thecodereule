@@ -18,7 +18,7 @@
 
 <h2>A few lines about me:</h2>
 <div style='text-align: center;'>
-    <h3>string main (Igor)</h3>
+    <h3>string profile (Igor)</h3>
     <h3>{</h3>
     &nbsp; &nbsp; &nbsp;🔭 I’m currently working on snapgrid.netlify.app</p>
     &nbsp; &nbsp; &nbsp;🌱 I’m currently learning ASP.NET, Golang and Data Science.</p>
