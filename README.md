@@ -2,8 +2,6 @@
 **thecodereule/thecodereule**
 
 
-<img src="https://raw.githubusercontent.com/ArroyoLeandro/ArroyoLeandro/master/sprite/rightSprite.gif" alt="Computer man" style="width:60;height:60px;">
-
 
 ### An an Informatics student
 
